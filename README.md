@@ -15,12 +15,11 @@ If you want to reconstitute the dataset using the provided script, please rememb
 If this dataset is useful to your research, you can refer to it with the following citation (paper citation coming):
 
 ```bibtex
-@misc{MojimPopularLyrics,
-  title={Mojim Popular Lyrics Database},
-  author={Evan Crothers},
-  year={2022},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ecrows/mojim-lyrics}},
+@article{crothers2023bloom,
+  title={In BLOOM: Creativity and Affinity in Artificial Lyrics and Art},
+  author={Crothers, Evan and Viktor, Herna and Japkowicz, Nathalie},
+  journal={arXiv preprint arXiv:2301.05402},
+  year={2023}
 }
 ```
+
